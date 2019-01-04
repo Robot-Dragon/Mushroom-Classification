@@ -13,5 +13,8 @@ Please do not hesitate to let me know if something can be improved.
            1       1.00      1.00      1.00      1164
 
    micro avg       1.00      1.00      1.00      2438
+   
    macro avg       1.00      1.00      1.00      2438
+   
 weighted avg       1.00      1.00      1.00      2438
+
