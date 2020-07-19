@@ -1,5 +1,5 @@
 # Mushroom-Classification
-My first machine learning exercise to classify if a mushroom is poisonous or edible (data from Kaggle.com)
+This is the machine learning exercise I coded from scratch to classify if a mushroom is poisonous or edible (data from Kaggle.com)
 
 It uses a Linear Regresion model as a binary classifer.
 
