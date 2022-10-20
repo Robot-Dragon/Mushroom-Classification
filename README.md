@@ -1,7 +1,7 @@
 # Mushroom-Classification
 This is the machine learning exercise I coded from scratch to classify if a mushroom is poisonous or edible (data from Kaggle.com)
 
-It uses a Linear Regresion model as a binary classifer.
+It uses a Logistic Regresion model as a binary classifer.
 
 My approach was very simple - I converted the existing class values to 1 or 0, and then used the Pandas get_dummies method to convert categorical variables to numerical.
 
